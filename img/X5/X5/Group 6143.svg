@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="261.104" height="48.217" viewBox="0 0 261.104 48.217">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_6885" data-name="Path 6885" d="M0,0Q.082,7.019.163,14.038l8.872-.008L3.249,7.772h5.8l3.22,3.482.9-.971L22.7,0Z" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_6886" data-name="Path 6886" d="M33.252,143.073,31.8,144.635l6.157,6.66h-5.8l-3.26-3.527q-5.333,5.756-10.668,11.511h15.6a8.1,8.1,0,0,0,0-16.205Z" transform="translate(-18.231 -143.073)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_6143" data-name="Group 6143" transform="translate(-178.896 -5125.873)">
+    <ellipse id="Ellipse_19" data-name="Ellipse 19" cx="25.125" cy="24.108" rx="25.125" ry="24.108" transform="translate(178.896 5125.873)" fill="#f6b61d"/>
+    <g id="Group_6106" data-name="Group 6106" transform="translate(191.352 5135.483)">
+      <g id="Group_5135" data-name="Group 5135" transform="translate(0)">
+        <g id="Group_5134" data-name="Group 5134" clip-path="url(#clip-path)">
+          <rect id="Rectangle_3982" data-name="Rectangle 3982" width="22.701" height="14.038" transform="translate(0 0)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_5137" data-name="Group 5137" transform="translate(1.641 12.877)">
+        <g id="Group_5136" data-name="Group 5136" clip-path="url(#clip-path-2)">
+          <rect id="Rectangle_3983" data-name="Rectangle 3983" width="28.216" height="28.216" transform="translate(-8.103 8.103) rotate(-45)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <text id="by_x5Labs_" data-name="by x5Labs " transform="translate(241 5135)" fill="#707070" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="18">by </tspan><tspan y="18" font-family="Arial-BoldMT, Arial" font-weight="700">x5Labs</tspan><tspan y="18"> </tspan></text>
+  </g>
+</svg>

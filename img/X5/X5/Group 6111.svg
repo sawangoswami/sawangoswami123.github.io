@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93" height="100.361" viewBox="0 0 93 100.361">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_6885" data-name="Path 6885" d="M0,0Q.109,9.329.217,18.657l11.791-.01L4.318,10.33h7.709l4.279,4.628,1.195-1.29L30.171,0Z" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_6886" data-name="Path 6886" d="M38.195,143.073l-1.925,2.075L44.453,154h-7.71l-4.333-4.687q-7.088,7.651-14.179,15.3H38.958a10.769,10.769,0,0,0,0-21.538Z" transform="translate(-18.231 -143.073)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_6111" data-name="Group 6111" transform="translate(-2831.894 -2700.382)">
+    <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="41.537" cy="41.915" rx="41.537" ry="41.915" transform="translate(2835.894 2700.382)" fill="#f6b61d"/>
+    <text id="YOU_RE_RIZZED_UP_" data-name="YOU’RE RIZZED UP!" transform="translate(2831.894 2798.743)" fill="#f6b61d" font-size="10" font-family="Inter-Black, Inter" font-weight="800" letter-spacing="-0.02em"><tspan x="0" y="0">YOU’RE RIZZED UP!</tspan></text>
+    <g id="Group_6081" data-name="Group 6081" transform="translate(2860.593 2723.073)">
+      <g id="Group_5135" data-name="Group 5135">
+        <g id="Group_5134" data-name="Group 5134" clip-path="url(#clip-path)">
+          <rect id="Rectangle_3982" data-name="Rectangle 3982" width="30.171" height="18.657" transform="translate(0 0)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_5137" data-name="Group 5137" transform="translate(2.181 17.115)">
+        <g id="Group_5136" data-name="Group 5136" clip-path="url(#clip-path-2)">
+          <rect id="Rectangle_3983" data-name="Rectangle 3983" width="37.5" height="37.5" transform="translate(-10.769 10.769) rotate(-45)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

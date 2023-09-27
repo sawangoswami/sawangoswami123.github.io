@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Inter, sans-serif;
+}
+
+.txt-clr {
+  color: #F6B61D;
+}
+
+.navigation {
+  padding-top: 15px;
+}
+.navigation .left-nav {
+  column-gap: 66px;
+}
+.navigation .left-nav .links-nav {
+  column-gap: 30px;
+}
+.navigation .left-nav .links-nav li {
+  display: inline-block;
+}
+.navigation .left-nav .links-nav li a {
+  display: inline-block;
+  font-family: Inter, sans-serif;
+  font-size: 18px;
+  letter-spacing: -0.36px;
+  color: #000D0D;
+}
+.navigation .left-nav .join-team a {
+  font-family: Inter, sans-srif;
+  letter-spacing: -0.36px;
+  color: black;
+  font-size: 15px;
+}
+.navigation .left-nav .nav-links {
+  column-gap: 12px;
+}
+.navigation .left-nav .nav-icon {
+  column-gap: 20px;
+}
+
+.banner {
+  background-image: url(../img/X5/X5/MaskGroup2.png);
+  background-repeat: no-repeat;
+  background-position: 0 -116px;
+  background-size: cover;
+  margin-top: -52px;
+  padding-top: 150px;
+}
+.banner .banner-text .cus-btn {
+  margin-top: 0;
+}
+.banner .banner-text .cus-btn .button {
+  display: inline-block;
+  max-width: 260px;
+  width: 100%;
+  background-color: #F6B61D;
+  padding: 16px 27px 14px 20px;
+  border-radius: 15px;
+  letter-spacing: -0.42px;
+  color: #FFFFFF;
+  font-size: 18px;
+}
+.banner p {
+  font-size: 15px;
+  letter-spacing: -0.4px;
+  color: #000D0D;
+  padding-left: 26px;
+}
+.banner p::before {
+  content: " ";
+  width: 26px;
+  height: 26px;
+  background-image: url(../img/X5/X5/thunder.svg);
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0;
+  left: 7px;
+}
+.banner .dots .dot1 {
+  filter: brightness(0%);
+  width: 95px;
+  height: 1px;
+  background-image: url(../img/X5/X5/Ellipse10.svg);
+  background-repeat: repeat;
+  margin: 150px 0;
+}
+.banner .dots .dot2 {
+  filter: brightness(0%);
+  width: 95px;
+  height: 1px;
+  background-image: url(../img/X5/X5/Ellipse10.svg);
+  background-repeat: repeat;
+  margin: 150px 0;
+}
+.banner h1 {
+  font-size: 46px;
+  letter-spacing: -2.88px;
+  color: #000D0E;
+}
+.banner .banner-image img {
+  object-fit: contain;
+}
+.banner .arrow {
+  margin-left: 167px;
+  margin-top: -85px;
+}
+.banner .arrow img {
+  max-width: 197px;
+  width: 100%;
+  object-fit: contain;
+}
+.banner .bottom-para p {
+  font-family: Inter, sans-serif;
+  letter-spacing: -0.2px;
+  font-size: 15px;
+}
+
+/*# sourceMappingURL=styles.css.map */

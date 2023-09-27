@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="386" height="386" viewBox="0 0 386 386">
+  <defs>
+    <filter id="Rectangle_667" x="0" y="0" width="386" height="386" filterUnits="userSpaceOnUse">
+      <feOffset dx="30" dy="34" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="45" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Love_Background_Mask_" data-name="Love (Background/Mask)" width="42" height="42" transform="translate(-0.258 0.005)" fill="#f6b61d"/>
+    </clipPath>
+  </defs>
+  <g id="Group_6117" data-name="Group 6117" transform="translate(-1051.093 -1495.09)">
+    <g id="Group_1" data-name="Group 1" transform="translate(1156.463 1595.705)" opacity="0.5">
+      <g transform="matrix(1, 0, 0, 1, -105.37, -100.61)" filter="url(#Rectangle_667)">
+        <path id="Rectangle_667-2" data-name="Rectangle 667" d="M58,0h0a58,58,0,0,1,58,58v58a0,0,0,0,1,0,0H58A58,58,0,0,1,0,58v0A58,58,0,0,1,58,0Z" transform="translate(105 101)" fill="#f6b61d"/>
+      </g>
+      <g id="Love" transform="translate(36.888 36.38)">
+        <rect id="Love_Background_Mask_2" data-name="Love (Background/Mask)" width="42" height="42" transform="translate(-0.258 0.005)" fill="#f6b61d"/>
+        <g id="Love-2" data-name="Love" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <path id="Union" d="M9.984,22.147l-.066-.067L2.46,14.526A8.532,8.532,0,1,1,14.6,2.538l1.421,1.439,1.421-1.439A8.532,8.532,0,1,1,29.588,14.526L22.1,22.116q-.075.076-.152.15l-6,5.921Z" transform="translate(4.74 7.161)" fill="#f6b61d" stroke="#fff" stroke-linejoin="round" stroke-width="4.375" stroke-dasharray="0 0"/>
+        </g>
+      </g>
+    </g>
+    <g id="chat-arrow-grow" transform="translate(1196.048 1636.063)">
+      <path id="Path_15926" data-name="Path 15926" d="M31.323,3.976H26.682a1.5,1.5,0,0,0-1.063,2.567l1.633,1.633h0L21.86,13.567a1.54,1.54,0,0,1-2.128,0l-.256-.257a4.618,4.618,0,0,0-6.38,0L5.427,20.979A1.509,1.509,0,0,0,7.563,23.11l7.669-7.669a1.538,1.538,0,0,1,2.128,0l.256.257a4.621,4.621,0,0,0,6.38,0l5.392-5.392h0l1.633,1.633a1.5,1.5,0,0,0,2.556-1.066V6.232a2.256,2.256,0,0,0-2.256-2.256Z" transform="translate(2.512 2.003)" fill="#fff"/>
+      <path id="Path_15927" data-name="Path 15927" d="M34.586,33.046H7.519a4.511,4.511,0,0,1-4.511-4.511V1.5A1.5,1.5,0,0,0,0,1.5V28.535a7.528,7.528,0,0,0,7.519,7.519H34.586a1.5,1.5,0,1,0,0-3.007Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
